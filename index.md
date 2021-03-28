@@ -18,7 +18,7 @@ body
 }
 
 .box {
-  height:600px;
+  height:650px;
   width: 420px;
   background: rgba(0,0,0,0.65);
   padding: 50px;
